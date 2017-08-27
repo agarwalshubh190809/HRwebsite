@@ -1,0 +1,104 @@
+
+/* 2.11 - Section Headings and Description 
+--------------------------------------------- */
+.sec-head-container {
+	margin-top: 150px;
+	margin-bottom: 120px;
+	overflow: hidden;
+}
+.sec-head-container  .sec-head-style {
+	position: relative;
+	max-width: 1170px;
+	display: table;
+	margin: auto;
+	padding: 0 15px;
+}
+.sec-head-container  .sec-head-style:after {
+	content: "";
+	height: 140px;
+	width: 100%;
+	background-color: #0000FF;
+	position: absolute;
+	top: 0;
+	left: -100%;
+	margin-left: -15px;
+}
+.section-title {
+	color: #1a1a1a;
+	font-size: 5.25em;
+	font-weight: 900;
+	text-align: right;
+	text-transform: uppercase;
+	line-height: .9em;
+	-webkit-text-stroke: 0.3px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 300px;
+}
+.section-title2 {
+	color: #1a1a1a;
+	font-size: 5.25em;
+	font-weight: 900;
+	text-align:center;
+	
+	text-transform: uppercase;
+	line-height: .9em;
+	-webkit-text-stroke: 0.3px;
+	padding: 0;
+	margin: 0;
+	
+	
+}
+.content-title {
+	margin-top: 0;
+	padding-top: 0;
+}
+.section-title span {
+	color: #4081A0;
+}
+.plx-section-title {
+	color: #000;
+	font-size: 2.1875em;
+	-webkit-text-stroke: 0.2px;
+}
+.section-description {
+	color: #404040;
+	font-size: 1.375em;
+	font-weight: 300;
+	line-height: 40px;
+	margin:0;
+	margin-left: 360px;
+	padding-top: 35px;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke: 0.2px;
+}
+.section-description3 {
+	color: #404040;
+	font-size: 1.375em;
+	font-weight: 300;
+	line-height: 40px;
+	
+	    position: relative;
+    max-width: 1170px;
+    display: table;
+    margin: auto;
+    
+	padding-top: 0px;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke: 0.2px;
+}
+.section-description2 {
+	color: #404040;
+	font-size: 1em;
+	font-weight: 300;
+	line-height: 25px;
+	margin:0;
+	margin-left: 360px;
+	padding-top: 35px;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke: 0.2px;
+}
+.parallax-style .subscribe-description {
+	color: #000;
+}
