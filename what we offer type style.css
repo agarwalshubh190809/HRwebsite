@@ -90,8 +90,8 @@
 }
 .section-description2 {
 	color: #404040;
-	font-size: 1.15em;
-	font-weight: 300;
+	font-size: 1.25em;
+	font-weight: 500;
 	line-height: 25px;
 	margin:0;
 	margin-top: 150px;
@@ -132,9 +132,11 @@
 }
 .section-description2 {
 	color: #404040;
-	font-size: 1em;
+	font-weight:580;
+	font-size: 1.15em;
 	margin-top:0px;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-stroke: 0.2px;
+	margin-bottom:100px;
 }
 }
